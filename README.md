@@ -96,49 +96,49 @@ No installation or additional dependencies are required.
 
 ## 🎣 What is Phishing?
 
-![What is Phishing](Screenshot/WhatIsPhishing.png)
+![What is Phishing](Screenshot/phishing.png)
 
 ---
 
 ## 📧 Types of Phishing
 
-![Types of Phishing](Screenshot/TypesOfPhishing.png)
+![Types of Phishing](Screenshot/Type.png)
 
 ---
 
 ## 📩 Phishing Email Examples
 
-![Email Examples](Screenshot/EmailExamples.png)
+![Email Examples](Screenshot/example.png)
 
 ---
 
 ## 🌐 Fake Website Detection
 
-![Fake Website](Screenshot/FakeWebsite.png)
+![Fake Website](Screenshot/fake.png)
 
 ---
 
 ## 🕵️ Social Engineering Awareness
 
-![Social Engineering](Screenshot/SocialEngineering.png)
+![Social Engineering](Screenshot/social.png)
 
 ---
 
 ## 🛡️ Prevention Tips
 
-![Prevention Tips](Screenshot/Prevention.png)
+![Prevention Tips](Screenshot/prevention.png)
 
 ---
 
 ## 📝 Interactive Quiz
 
-![Quiz](Screenshot/Quiz.png)
+![Quiz](Screenshot/quiz.png)
 
 ---
 
 ## 🏆 Certificate Generation
 
-![Certificate](Screenshot/Certificate.png)
+![Certificate](Screenshot/certificate.png)
 
 ---
 
