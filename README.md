@@ -173,7 +173,7 @@ No installation or additional dependencies are required.
 
 GitHub: https://github.com/VINOTHINI-006
 
-LinkedIn: *(Add your LinkedIn profile here)*
+
 
 ---
 
