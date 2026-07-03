@@ -96,7 +96,7 @@ No installation or additional dependencies are required.
 
 ## 🎣 What is Phishing?
 
-![What is Phishing](Screenshot/phishing.png)
+![What is Phishing](Screenshot/phising.png)
 
 ---
 
