@@ -112,13 +112,13 @@ No installation or additional dependencies are required.
 
 ---
 
-## 🌐 Fake Website Detection
+## 🌐 Fake Website Detector
 
 ![Fake Website](Screenshot/fake.png)
 
 ---
 
-## 🕵️ Social Engineering Awareness
+## 🕵️ Social Engineering Tactics
 
 ![Social Engineering](Screenshot/social.png)
 
